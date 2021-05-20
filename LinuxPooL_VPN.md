@@ -14,7 +14,7 @@ Use your KUSIS ID and password here. For example, if your email is `username20@k
 
 ##  Connecting to a Linuxpool Remote Server via SSH (Secure Shell):
 
-We've already covered `ssh` and `scp` in the lecture but we advise you to watch [this video](https://www.youtube.com/watch?v=rm6pewTcSro&ab_channel=Drupalize.Me) about the usage of 
+`ssh` and `scp` are covered in the lecture notes (remote_machines.md), we also advise you to watch [this video](https://www.youtube.com/watch?v=rm6pewTcSro&ab_channel=Drupalize.Me) about the usage of 
 
 * `ssh` to connect to a remote server,
 * `scp` to transfer files between the remote server and your local machine.
